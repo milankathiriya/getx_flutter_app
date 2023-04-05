@@ -27,11 +27,10 @@ This is a simple app for demonstrating Add to Cart functionality using GetX stat
 
 ## 📲 Screenshots
 
-<img align="left" src="./assets/screenshots/bmi_calc_1.png" width="220px">
-<img align="left" src="./assets/screenshots/bmi_calc_2.png" width="220px">
-<img align="left" src="./assets/screenshots/bmi_calc_3.png" width="220px">
-<img align="left" src="./assets/screenshots/bmi_calc_4.png" width="220px">
-<img src="./assets/screenshots/bmi_calc_5.png" width="220px">
+<img align="left" src="./assets/screenshots/p1.png" width="220px">
+<img align="left" src="./assets/screenshots/p2.png" width="220px">
+<img align="left" src="./assets/screenshots/t1.png" width="220px">
+<img src="./assets/screenshots/t2.png" width="220px">
 
 
 <br><br>
@@ -45,7 +44,7 @@ This project is [MIT](LICENSE.md) licensed.
 
 <div align="center">
 
-<img src="./assets/icons/logo.png" width="200px" height="200px">
+<img src="./assets/icons/icon.png" width="200px" height="200px">
 
 ### Made with ❤️ in India.
   
